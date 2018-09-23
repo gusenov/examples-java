@@ -32,13 +32,13 @@
 
 ## New Project
 
-<kbd>![New Project](screenshots/New Project [1].png)</kbd>
+<kbd>![New Project](screenshots/New%20Project%20%5B1%5D.png)</kbd>
 
-<kbd>![New Project](screenshots/New Project [2].png)</kbd>
+<kbd>![New Project](screenshots/New%20Project%20%5B2%5D.png)</kbd>
 
-<kbd>![New Project](screenshots/New Project [3].png)</kbd>
+<kbd>![New Project](screenshots/New%20Project%20%5B3%5D.png)</kbd>
 
-<kbd>![New Project](screenshots/New Project [4].png)</kbd>
+<kbd>![New Project](screenshots/New%20Project%20%5B4%5D.png)</kbd>
 
 # Class Diagram
 
