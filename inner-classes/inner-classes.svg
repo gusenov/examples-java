@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (d244b95, 2018-08-02)"
+   sodipodi:docname="inner-classes.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="466.11452"
+     inkscape:cy="435.31956"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1869"
+     inkscape:window-height="1025"
+     inkscape:window-x="51"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#e3dbde;stroke:#000000;stroke-width:0.71580237"
+       id="rect10"
+       width="279.49258"
+       height="186.49519"
+       x="10.099797"
+       y="100.51161" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="17.002409"
+       y="278.27917"
+       id="text819"><tspan
+         sodipodi:role="line"
+         id="tspan817"
+         x="17.002409"
+         y="278.27917"
+         style="stroke-width:0.26458332">Внутренние классы</tspan></text>
+    <rect
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.21867858"
+       id="rect825"
+       width="111.90023"
+       height="69.477615"
+       x="18.682346"
+       y="116.4175" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.803108"
+       y="180.53606"
+       id="text819-3"><tspan
+         sodipodi:role="line"
+         id="tspan817-6"
+         x="21.803108"
+         y="180.53606"
+         style="font-size:9.87777805px;stroke-width:0.26458332">Вложенные классы</tspan></text>
+    <rect
+       style="fill:#ffd5d5;stroke:#000000;stroke-width:0.15537809"
+       id="rect825-7"
+       width="97.978416"
+       height="40.06015"
+       x="24.262577"
+       y="122.56667" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="30.035522"
+       y="138.25298"
+       id="text819-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan817-6-3"
+         x="30.035522"
+         y="138.25298"
+         style="font-size:8.46666622px;stroke-width:0.26458332">Статические</tspan><tspan
+         sodipodi:role="line"
+         x="30.035522"
+         y="151.48215"
+         style="font-size:8.46666622px;stroke-width:0.26458332"
+         id="tspan888">вложенные классы</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.21609172"
+       id="rect825-5"
+       width="247.74757"
+       height="30.64292"
+       x="20.055212"
+       y="225.67764" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="23.434532"
+       y="238.1868"
+       id="text907"><tspan
+         sodipodi:role="line"
+         x="23.434532"
+         y="238.1868"
+         style="font-size:9.87777805px;stroke-width:0.26458332"
+         id="tspan909">Внутренний класс в локальном методе </tspan><tspan
+         sodipodi:role="line"
+         x="23.434532"
+         y="251.41597"
+         style="font-size:9.87777805px;stroke-width:0.26458332"
+         id="tspan911">или в блоке инициализации внешнего класса</tspan></text>
+    <rect
+       style="display:inline;fill:#ff00ff;stroke:#000000;stroke-width:0.30968785"
+       id="rect825-6"
+       width="144.44643"
+       height="107.94557"
+       x="138.51059"
+       y="109.97962" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="145.3773"
+       y="195.60426"
+       id="text819-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan817-6-9"
+         x="145.3773"
+         y="195.60426"
+         style="font-size:9.87777805px;stroke-width:0.26458332">Анонимные </tspan><tspan
+         sodipodi:role="line"
+         x="145.3773"
+         y="208.83344"
+         style="font-size:9.87777805px;stroke-width:0.26458332"
+         id="tspan956">внутренние классы</tspan></text>
+    <rect
+       style="display:inline;fill:#ffdd55;stroke:#000000;stroke-width:0.1397586"
+       id="rect825-7-1"
+       width="111.97915"
+       height="28.358505"
+       x="147.24834"
+       y="116.70021" />
+    <rect
+       style="display:inline;fill:#80b3ff;stroke:#000000;stroke-width:0.15127327"
+       id="rect825-7-1-2"
+       width="131.24442"
+       height="28.346991"
+       x="147.25409"
+       y="148.76556" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="150.4624"
+       y="127.15788"
+       id="text819-3-5-7"><tspan
+         sodipodi:role="line"
+         x="150.4624"
+         y="127.15788"
+         style="font-size:8.46666622px;stroke-width:0.26458332"
+         id="tspan888-9">Как наследник </tspan><tspan
+         sodipodi:role="line"
+         x="150.4624"
+         y="140.38705"
+         style="font-size:8.46666622px;stroke-width:0.26458332"
+         id="tspan1011">определённого класса</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="149.66512"
+       y="157.65346"
+       id="text819-3-5-7-3"><tspan
+         sodipodi:role="line"
+         x="149.66512"
+         y="157.65346"
+         style="font-size:8.46666622px;stroke-width:0.26458332"
+         id="tspan1011-0">Как реализация </tspan><tspan
+         sodipodi:role="line"
+         x="149.66512"
+         y="170.88263"
+         style="font-size:8.46666622px;stroke-width:0.26458332"
+         id="tspan1036">определённого интерфейса</tspan></text>
+  </g>
+</svg>
